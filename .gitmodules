@@ -1,3 +1,7 @@
 [submodule "themes/terminal"]
 	path = themes/terminal
 	url = git@github.com:panr/hugo-theme-terminal.git
+[submodule "public"]
+	path = public
+	url = git@github.com:nhr/nhr.github.io
+	branch = main
