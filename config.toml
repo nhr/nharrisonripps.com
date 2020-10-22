@@ -1,4 +1,4 @@
-baseurl = "http://www.nharrisonripps.com/"
+baseurl = "https://www.nharrisonripps.com/"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
