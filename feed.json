@@ -7,6 +7,33 @@
 	"items": [
 		
 			{
+				"id": "http://nhr.micro.blog/2025/04/08/long-day-spent-much-of.html",
+				
+				"content_html": "<p>Long day. Spent much of it trying to explain that you can be creative AND productive.</p>\n",
+				"content_text": "Long day. Spent much of it trying to explain that you can be creative AND productive.\n",
+				"date_published": "2025-04-08T23:33:38-04:00",
+				"url": "https://nharrisonripps.com/2025/04/08/long-day-spent-much-of.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://nhr.micro.blog/2025/04/04/another-friday-another-manhattan-on.html",
+				
+				"content_html": "<p>Another Friday, another manhattan on the rocks. The stock market is so (understandably) insane that I should probably stockpile some cocktail ingredients this weekend… 🥃</p>\n<!-- raw HTML omitted -->\n",
+				"content_text": "Another Friday, another manhattan on the rocks. The stock market is so (understandably) insane that I should probably stockpile some cocktail ingredients this weekend… 🥃\n\n<img src=\"uploads/2025/718a0e706b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"date_published": "2025-04-04T17:33:22-04:00",
+				"url": "https://nharrisonripps.com/2025/04/04/another-friday-another-manhattan-on.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://nhr.micro.blog/2025/04/02/spent-the-day-remembering-how.html",
+				
+				"content_html": "<p>Spent the day remembering how to Dougie</p>\n",
+				"content_text": "Spent the day remembering how to Dougie\n",
+				"date_published": "2025-04-02T20:14:40-04:00",
+				"url": "https://nharrisonripps.com/2025/04/02/spent-the-day-remembering-how.html",
+				"tags": ["Posts"]
+			},
+			{
 				"id": "http://nhr.micro.blog/2025/03/31/spent-a-long-time-in.html",
 				
 				"content_html": "<p>Spent a long time in the flow today. Wrote a file parser. Deleted Duolingo with tremendous satisfaction after rising to &ldquo;diamond league&rdquo;. It&rsquo;s the little things.</p>\n",
