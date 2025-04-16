@@ -7,6 +7,24 @@
 	"items": [
 		
 			{
+				"id": "http://nhr.micro.blog/2025/04/16/at-the-first-middle-school.html",
+				
+				"content_html": "<p>At the first middle school track meet of the season. With wind chill adding to already low temps, I think it is officially too damn cold for a track meet today. Wishing I brought a flask…</p>\n",
+				"content_text": "At the first middle school track meet of the season. With wind chill adding to already low temps, I think it is officially too damn cold for a track meet today. Wishing I brought a flask…\n",
+				"date_published": "2025-04-16T17:39:42-04:00",
+				"url": "https://nharrisonripps.com/2025/04/16/at-the-first-middle-school.html",
+				"tags": ["Posts"]
+			},
+			{
+				"id": "http://nhr.micro.blog/2025/04/11/saw-these-guys-in-concert.html",
+				
+				"content_html": "<p>Saw Väsen in concert last night. I wouldn&rsquo;t have picked this show, but five minutes in I knew that I was listening to two absolute masters of their craft, and I am always in the mood for that. 🎵</p>\n<iframe allow=\"autoplay *; encrypted-media *;\" frameborder=\"0\" height=\"450\" style=\"width: 100%;max-width:660px;overflow:hidden;background:transparent;\" sandbox=\"allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation\" src=\"https://embed.music.apple.com/us/album/melliken/1670368963?theme=dark\"></iframe>\n",
+				"content_text": "Saw Väsen in concert last night. I wouldn't have picked this show, but five minutes in I knew that I was listening to two absolute masters of their craft, and I am always in the mood for that. 🎵\n\n{{< apple-music url=\"https://music.apple.com/us/album/melliken/1670368963\" >}}\n",
+				"date_published": "2025-04-11T14:36:33-04:00",
+				"url": "https://nharrisonripps.com/2025/04/11/saw-these-guys-in-concert.html",
+				"tags": ["Posts"]
+			},
+			{
 				"id": "http://nhr.micro.blog/2025/04/08/long-day-spent-much-of.html",
 				
 				"content_html": "<p>Long day. Spent much of it trying to explain that you can be creative AND productive.</p>\n",
