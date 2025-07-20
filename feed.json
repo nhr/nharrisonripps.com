@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://nhr.micro.blog/2025/07/20/switched-my-devices-over-to.html",
+				
+				"content_html": "<p>Switched my devices over to Swedish this morning. Så långt är allt gott… Just need to like, learn Swedish now.</p>\n",
+				"content_text": "Switched my devices over to Swedish this morning. Så långt är allt gott… Just need to like, learn Swedish now.\n",
+				"date_published": "2025-07-20T08:40:51-04:00",
+				"url": "https://nharrisonripps.com/2025/07/20/switched-my-devices-over-to.html",
+				"tags": ["Posts"]
+			},
+			{
 				"id": "http://nhr.micro.blog/2025/05/19/spent-the-day-getting-our.html",
 				
 				"content_html": "<p>Spent the day getting our latest cohort of summer interns up and running. Recovering in a delightfully chaotic Thai place.</p>\n<!-- raw HTML omitted -->\n",
@@ -82,7 +91,7 @@
 				"id": "http://nhr.micro.blog/2025/04/04/another-friday-another-manhattan-on.html",
 				
 				"content_html": "<p>Another Friday, another manhattan on the rocks. The stock market is so (understandably) insane that I should probably stockpile some cocktail ingredients this weekend… 🥃</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "Another Friday, another manhattan on the rocks. The stock market is so (understandably) insane that I should probably stockpile some cocktail ingredients this weekend… 🥃\n\n<img src=\"uploads/2025/718a0e706b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
+				"content_text": "Another Friday, another manhattan on the rocks. The stock market is so (understandably) insane that I should probably stockpile some cocktail ingredients this weekend… 🥃\n\n<img src=\"https://nharrisonripps.com/uploads/2025/718a0e706b.jpg\" width=\"450\" height=\"600\" alt=\"\">\n",
 				"date_published": "2025-04-04T17:33:22-04:00",
 				"url": "https://nharrisonripps.com/2025/04/04/another-friday-another-manhattan-on.html",
 				"tags": ["Posts"]
